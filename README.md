@@ -31,7 +31,7 @@ Para rodar o projeto é seguido o que é indicado na documentação das extenç�
 Abra o arquivo gerado em uma nova aba do VS code, e clique no icone do Spring Boot Dashboard que está na sidebar, e deve aparecer um arquivo em com o nome que vc
 atribuiuem Apps. É só roda-lo. o resultado deve ser algo desse tipo:
 
-<img style="width: 600px;" src="https://user-images.githubusercontent.com/90003046/209383898-2289fbae-9a22-4fb4-a47b-6cc7962ea3f2.png">
+<img style="width: 600px;" src="https://user-images.githubusercontent.com/90003046/209386120-102b2441-2287-4276-a27d-c674ff220403.png">
 
 ### API
 
