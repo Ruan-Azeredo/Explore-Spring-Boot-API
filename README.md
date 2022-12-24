@@ -34,3 +34,26 @@ A API gerada pode ser chamada dessa forma:
 <img style="width: 600px;" src="https://user-images.githubusercontent.com/90003046/209384778-8bf5b85b-1c38-4ad3-a2d1-8c52b0263772.png">
 
 Ainda não existe informação nenhuma sendo passada, porem podemos ver que já está funcionando.
+
+### Controller
+
+Criando a pasta controller, dentro dela adicionei o arq **ClienteController**.java, que possui a API e inicialmente apenas um método GET de exemplo.
+
+```Java
+package com.example.demo.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/clientes")
+public class ClienteController {
+
+    @GetMapping
+    public String hello(){
+        return "Hello World";
+    }
+
+}
+```
