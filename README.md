@@ -57,3 +57,8 @@ public class ClienteController {
 
 }
 ```
+
+Resposta deste método GET:
+
+<img style="width: 600px;" src="https://user-images.githubusercontent.com/90003046/209418456-a8e46a9d-2f7b-49e7-b2e0-e5b2ad4bd3fd.png">
+
