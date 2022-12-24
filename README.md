@@ -3,13 +3,6 @@
 Este projeto tem o proposito de ser um processo de aprendizagem do framework Spring Boot para o desenvolvimento de API rest. O processo de desenvolvimento será
 relatado atravez deste Readme.md para que seja utilizado em referencias futuras.
 
-### Criação do projeto
-
-A criação do projeto foi feita atravez da web pelo https://start.spring.io/.
-#### Configurações do projeto:
-
-<img style="width: 600px;" src="https://user-images.githubusercontent.com/90003046/209376486-c8499427-00e5-4302-b444-494ed3515c90.png"/>
-
 ### Extensões VS code
 
 Para o uso do Spring Boot, é mais indicado o uso do Spring Tool Suite, porem para meu caso faz mas sentido utilizar o VS code, o qual tenho mais familiaridade e
@@ -18,9 +11,10 @@ evita a instalação de outra ferramenta. Sendo assim foi necessario realizar a 
 - https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr
 - https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot
 
-### Rodando o Projeto
+### Criação do Projeto
 
-Para rodar o projeto é seguido o que é indicado na documentação das extenções *initializr* e *dashboard*.
+Para rodar o projeto é seguido o que é indicado na documentação das extenções *initializr* e *dashboard*. Desta forma, dentro dá pasta onde vamos criar o projeto
+realizamos os sguintes passos:
 
 **Initilizr:**
 
